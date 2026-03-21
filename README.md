@@ -4,7 +4,7 @@
 
 ---
 
-## What's Inside
+## What's Inside!
 
 | Page | What it does |
 |---|---|
@@ -213,7 +213,7 @@ Fonts load from Google Fonts CDN via `@import` in the CSS block. No install need
 
 ---
 
-## Customisation
+## Customisation !
 
 **Add a new skill card:**
 
