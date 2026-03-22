@@ -4,7 +4,7 @@
 
 ---
 
-## What's Inside
+## What's Inside...
 
 | Page | What it does |
 |---|---|
@@ -68,7 +68,7 @@ Replace `src/App.jsx` with `lifepath-v3.jsx` (rename it to `App.jsx`):
 cp lifepath-v3.jsx lifepath/src/App.jsx
 ```
 
-### 4. Set up your API key
+### 4. Set up your API key...
 
 Create a `.env` file in the project root:
 
