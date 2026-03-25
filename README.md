@@ -31,7 +31,7 @@ Zero npm dependencies beyond React and a bundler. No Tailwind. No component libr
 
 ---
 
-## Project Structure
+## Project Structure!!
 
 ```
 lifepath/
@@ -60,7 +60,7 @@ npm create vite@latest lifepath -- --template react
 cd lifepath
 ```
 
-### 3. Drop in the app file
+### 3. Drop in the app file!
 
 Replace `src/App.jsx` with `lifepath-v3.jsx` (rename it to `App.jsx`):
 
