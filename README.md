@@ -4,7 +4,7 @@
 
 ---
 
-## What's Inside...
+## What's Inside
 
 | Page | What it does |
 |---|---|
@@ -31,7 +31,7 @@ Zero npm dependencies beyond React and a bundler. No Tailwind. No component libr
 
 ---
 
-## Project Structure!!
+## Project Structure
 
 ```
 lifepath/
